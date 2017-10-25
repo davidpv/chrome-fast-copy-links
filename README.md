@@ -1,0 +1,1 @@
+# chrome-fast-copy-links
